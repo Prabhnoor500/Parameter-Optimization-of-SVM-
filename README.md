@@ -8,4 +8,4 @@ Choose any multi-class dataset from UCI library.Dataset size must have rows betw
 #### Table : Comparative Performance Of Optimized-SVM with different samples
 
 
-![Comparative Performance Of Optimized-SVM with different samples]()
+![Comparative Performance Of Optimized-SVM with different samples](https://user-images.githubusercontent.com/118923632/233210703-aabfb6e9-84ae-4b3b-a859-c74516398e3a.png)
