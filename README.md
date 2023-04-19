@@ -33,9 +33,9 @@ https://archive.ics.uci.edu/ml/datasets/Anuran+Calls+%28MFCCs%29
 ![Convergence Graph](https://user-images.githubusercontent.com/118923632/233213688-06d08d89-dca3-489b-b41c-e2fc6ae978ce.png)
 
 ## Submitted By->
-```
+
 Prabhnoor Singh Ghotra
 102003560
 COE22
 
- ``` 
+ 
