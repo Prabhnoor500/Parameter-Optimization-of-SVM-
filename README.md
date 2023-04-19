@@ -1,5 +1,4 @@
 # Parameter-Optimization-of-SVM-
 
 
-''' REDF 
-'''
+### About the Project
