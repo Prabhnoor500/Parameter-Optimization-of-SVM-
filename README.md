@@ -11,10 +11,11 @@ Choose any multi-class dataset from UCI library.Dataset size must have rows betw
 ![Comparative Performance Of Optimized-SVM with different samples](https://user-images.githubusercontent.com/118923632/233221265-b7c6baa5-60fd-41f7-a855-fce78704a731.png)
 
 ### Results
-1. *Best Performing Sample*:- S9 is the best sample among all 10 samples with the best accuracy of 0.733333333 
+1. *Best Performing Sample*:- S5 is the best sample among all 10 samples with the best accuracy of 0.76
 2. *Kernel* - "poly"
-3. *Nu* - 0.361138733
-4. *Gamma* - 0.964813518
+3. *Nu* - 0.969743733
+4. *Epsilon* - 0.995006692
+
 
 
 ## Dataset Used 
