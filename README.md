@@ -8,7 +8,7 @@ Choose any multi-class dataset from UCI library.Dataset size must have rows betw
 #### Table : Comparative Performance Of Optimized-SVM with different samples
 
 
-![Comparative Performance Of Optimized-SVM with different samples](https://user-images.githubusercontent.com/118923632/233210703-aabfb6e9-84ae-4b3b-a859-c74516398e3a.png)
+![Comparative Performance Of Optimized-SVM with different samples](https://user-images.githubusercontent.com/118923632/233221265-b7c6baa5-60fd-41f7-a855-fce78704a731.png)
 
 ### Results
 1. *Best Performing Sample*:- S9 is the best sample among all 10 samples with the best accuracy of 0.733333333 
@@ -30,7 +30,7 @@ https://archive.ics.uci.edu/ml/datasets/Anuran+Calls+%28MFCCs%29
 
 
 ## Convergence Graph
-![Convergence Graph](https://user-images.githubusercontent.com/118923632/233213688-06d08d89-dca3-489b-b41c-e2fc6ae978ce.png)
+![Convergence Graph](https://user-images.githubusercontent.com/118923632/233221390-7ff5df6a-16f0-4cf4-b928-a46fa354772e.png)
 
 ## Submitted By->
 
